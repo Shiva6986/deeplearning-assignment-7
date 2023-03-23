@@ -46,5 +46,5 @@ Description:
           Model loss
           Upper right 
           lower right 
-          plt.show(n)
+          plt.show (n)
           
