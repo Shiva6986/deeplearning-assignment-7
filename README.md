@@ -41,7 +41,8 @@ Description:
      
             
             3)Visualize Loss and Accuracy using the history object
-            # Plot the training and validation loss\n",
+           
+             Plot the training and validation loss\n",
         "plt.plot(history.history['loss'])\n",
         "plt.plot(history.history['val_loss'])\n",
         "plt.title('Model Loss')\n",
