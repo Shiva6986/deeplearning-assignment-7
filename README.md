@@ -32,20 +32,13 @@ Description:
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/"
+          "base_uri"
         },
         "id": "vvcyfHmUzJ2n",
         "outputId": "a39a54f1-43d3-4e60-aa47-abeedd908e1b"
       },
       "execution_count": 18,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "1/1 [==============================] - 0s 21ms/step\n",
-            "Predicted labels: [3 8 8 8]
-            "Actual labels:    [3 8 8 0]
+     
             
             3)Visualize Loss and Accuracy using the history object
             # Plot the training and validation loss\n",
