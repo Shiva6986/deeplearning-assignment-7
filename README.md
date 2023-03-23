@@ -65,8 +65,3 @@ Description:
         "plt.xlabel('Epoch')\n",
         "plt.legend(['train', 'val'], loc='lower right')\n",
         "plt.show()\n"
-      "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 573
-        }
