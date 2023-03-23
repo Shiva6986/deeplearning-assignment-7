@@ -58,4 +58,4 @@ Description:
         "plt.ylabel('Accuracy')\n",
         "plt.xlabel('Epoch')\n",
         "plt.legend(['train', 'val'], loc='lower right')\n",
-        "plt.show()\n"
+        "plt.show()\n
